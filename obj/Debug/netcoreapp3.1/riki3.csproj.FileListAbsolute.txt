@@ -1,0 +1,13 @@
+D:\riki3\bin\Debug\netcoreapp3.1\riki3.exe
+D:\riki3\bin\Debug\netcoreapp3.1\riki3.deps.json
+D:\riki3\bin\Debug\netcoreapp3.1\riki3.runtimeconfig.json
+D:\riki3\bin\Debug\netcoreapp3.1\riki3.runtimeconfig.dev.json
+D:\riki3\bin\Debug\netcoreapp3.1\riki3.dll
+D:\riki3\bin\Debug\netcoreapp3.1\riki3.pdb
+D:\riki3\obj\Debug\netcoreapp3.1\riki3.csprojAssemblyReference.cache
+D:\riki3\obj\Debug\netcoreapp3.1\riki3.csproj.CoreCompileInputs.cache
+D:\riki3\obj\Debug\netcoreapp3.1\riki3.AssemblyInfoInputs.cache
+D:\riki3\obj\Debug\netcoreapp3.1\riki3.AssemblyInfo.cs
+D:\riki3\obj\Debug\netcoreapp3.1\riki3.dll
+D:\riki3\obj\Debug\netcoreapp3.1\riki3.pdb
+D:\riki3\obj\Debug\netcoreapp3.1\riki3.genruntimeconfig.cache
